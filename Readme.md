@@ -9,7 +9,7 @@ Also available on CKAN. -->
 # DaMichel's CargoBays  
 ##### A continuation of DaMichel's Aero RTG Pack  
 *originally named Radial Aerodynamic RTG*  
-![CargoBays version](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzer0Kerbal%2FDaMichel%2Fmaster%2Fjson%2Fcargobays.json)
+![CargoBays version](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzer0Kerbal%2FCargoBays%2Fmaster%2Fjson%2Fmod.json)
 ![KSP version](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzer0Kerbal%2FDaMichel%2Fmaster%2Fjson%2Fksp.json) 
 ![CKAN listed](https://img.shields.io/badge/CKAN-Indexed-brightgreen.svg) ![License CC BY-NC-SA 3.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%203.0-lightgrey)
 > A payload parts mod that adds three 2.5m round cargo-bays in 1m, 2m, and 4m lengths with fold-flat door design.
@@ -100,6 +100,4 @@ Source/License: [Source and license are included in the zip.](https://www.dropbo
 ###### v1.1.0.0 original: 11 Aug 2018 zed'K | updated: 17 Feb 2020 zed'K
 https://creativecommons.org/licenses/by-sa/3.0/
 
-<!--
-CC BY-NC-SA-4.0
-zer0Kerbal-->
+<!-- CC BY-NC-SA 4.0 by zer0Kerbal-->
