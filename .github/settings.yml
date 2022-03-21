@@ -18,7 +18,7 @@ repository:
   homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/207351-*
   
   # A comma-separated list of topics to set on the repository
-  topics: cargo,bay,cargobay,round,fold-flat,doors,storage,kerbal,kerbalspaceprogram,ksp,ksp-mods,ksp-parts,kerbal-space,kerbal-space-program,kerbal-mods,zedK,damichel
+  topics: cargo,bay,cargobay,round,fold-flat,doors,storage,kerbal,kerbalspaceprogram,ksp,ksp-mods,ksp-parts,kerbal-space,kerbal-space-program,kerbal-mods,zedK
   
   # Either `true` to make the repository private, or `false` to make it public.
   private: false
