@@ -1,3 +1,15 @@
+---
+permalink: /License.html
+title: License: CC BY-SA 3.0 Unported
+---
+
+<!--
+CC-BY-SA-3.0.md v1.0.0.0
+CargoBays (DCB)
+created: 01 Feb 2022
+updated: 07 Mar 2022
+-->
+
 ## Attribution-ShareAlike 3.0 Unported
 
 ![img](https://creativecommons.org/images/international/unported.png)
@@ -73,3 +85,5 @@ UNLESS OTHERWISE MUTUALLY AGREED TO BY THE PARTIES IN WRITING, LICENSOR OFFERS T
 > Except for the limited purpose of indicating to the public that the Work is licensed under the CCPL, Creative Commons does not authorize the use by either party of the trademark "Creative Commons" or any related trademark or logo of Creative Commons without the prior written consent of Creative Commons. Any permitted use will be in compliance with Creative Commons' then-current trademark usage guidelines, as may be published on its website or otherwise made available upon request from time to time. For the avoidance of doubt, this trademark restriction does not form part of the License.
 >
 > Creative Commons may be contacted at https://creativecommons.org/.
+
+<!-- this file CC BY-NC-ND 3.0 Unported by zer0Kerbal-->
