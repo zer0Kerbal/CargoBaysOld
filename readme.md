@@ -7,7 +7,7 @@ updated: 05 Mar 2022 -->
 
 [![CargoBays][MOD:shd:latest]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![CKAN][CKAN:shd]][CKAN:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url]  
-![Code][CODE:shd] ![KSP-AVC][AVC:shd] ![Validate AVC .version files][AVCVLD:shd]
+![KSP-AVC][AVC:shd] ![Validate AVC .version files][AVCVLD:shd]
 
 [![GitHub Pages][MOD:pages:shd]][MOD:pages]
 
@@ -155,7 +155,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 [MOD:issue]: https://github.com/zer0Kerbal/CargoBays/wiki/Known-Issues "GitHub Issues"
 [MOD:known]: https://github.com/zer0Kerbal/CargoBays/wiki/Known-Issues "Known Issues"
 [MOD:licns]: https://github.com/zer0Kerbal/CargoBays/blob/master/LICENSE "Github License"
-[MOD:local]: https://github.com/zer0Kerbal/CargoBays/blob/master/GameData/CargoBays/Localization/readme.md "Localization"
+[MOD:local]: https://github.com/zer0Kerbal/CargoBays/blob/master/GameData/DaMichel/CargoBays/Localization/readme.md "Localization"
 [MOD:pages]: https://zer0kerbal.github.io/CargoBays/ "GitHub Pages"
 [MOD:wiki]: https://github.com/zer0Kerbal/CargoBays/wiki "Wiki"
 
@@ -168,8 +168,8 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 
 <!--- mod provenance -->
 [MOD:org:source]: https://www.dropbox.com/s/yc2zymblmjgrik8/MoarKerbals-v1.1.rar?dl=0 "Dropbox"
-[MOD:org:thread]:https://forum.kerbalspaceprogram.com/index.php?/topic/94517-* "KSP Forum"  
-[MOD:org:download]: https://www.dropbox.com/s/yc2zymblmjgrik8/MoarKerbals-v1.1.rar?dl=0 "Dropbox"  
+[MOD:org:thread]:https://forum.kerbalspaceprogram.com/index.php?/topic/94517-* "KSP Forum"
+[MOD:org:download]: https://www.dropbox.com/s/yc2zymblmjgrik8/MoarKerbals-v1.1.rar?dl=0 "Dropbox"
 
 <!--- license provenance-->
 [LIC:org:url]: https://creativecommons.org/licenses/by-sa/3.0/ "CC BY-SA 3.0 Unported"
