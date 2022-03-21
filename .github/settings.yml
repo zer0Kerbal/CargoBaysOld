@@ -256,7 +256,7 @@ milestones:
     state: open
     
   - title: Repo-Update
-    description: Repo-Update
+    description: progress toward Repo-Update
     state: open
 
   - title: Localization - Master
@@ -265,7 +265,7 @@ milestones:
     
   - title: Localization - English (United States) <en-us.cfg>
     description: progress toward English (United States) <en-us.cfg> localization
-    state: open
+    state: closed
 #    
 #  - title: Localization - German (Deutsch) <de.cfg>
 #    description: progress toward German (Deutsch) <de.cfg> localization
